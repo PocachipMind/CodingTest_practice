@@ -1,10 +1,10 @@
 # [level 2] 의상 - 42578 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42578) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42578?language=csharp) 
 
 ### 성능 요약
 
-메모리: 4.22 MB, 시간: 0.03 ms
+메모리: 31.8 MB, 시간: 4.25 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 21일 23:29:50
+2024년 04월 26일 02:32:44
 
 ### 문제 설명
 
